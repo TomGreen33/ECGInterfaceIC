@@ -1,0 +1,10 @@
+FinalReport.pdf contains my team's submission for the final project of our Micro and Nano Scale Electronics course (ENGG 4080). For this project, we were required to design 
+an ECG interface for smart watch applications. In essence, the design had to contain an analogue multiplexer (to select a signal from various sources), a programmable gain 
+amplifier (which could amplify the input signal but either 1, 2, 3, or 4, depending on what the select signals are from a miroprocessor), as well as an 
+analogue to digital converter (ADC). For this project, I mainly focused on the multiplexer, the programmable gain amplifier, and the cost estimation, while my
+lab partner took care of the ADC. Overall I am quite proud of what was accomplished in this project, and it has truly sparked my passion for the deign of 
+integrated circuits. 
+
+Disclaimer:
+This is the work Riley McCarthy and I. I strongly discourage any form of plagarism from this project. I have uploaded my work to github to showcase my work 
+to potential employers. 
